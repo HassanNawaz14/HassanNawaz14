@@ -1,7 +1,7 @@
 # Hi, I'm Hassan 👋
 🎓 Data Science Student at FAST NUCES Lahore  
 🧠 I love solving problems with traditional C++ logic  
-🔍 Currently learning AI, Data Structures, and MERN Stack 
+🔍 Currently workin on AI&ML, Data Structures, and MERN Stack 
 🚀 Open to freelance and remote work
 
 ## 🛠️ My Projects
