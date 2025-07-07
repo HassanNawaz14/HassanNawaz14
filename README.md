@@ -15,4 +15,4 @@
 
 ### 📌 Hire Me
 - 💼 Python Freelancing Gig on Fiverr: ([Fiverr Gig Link](http://www.fiverr.com/s/AykGoXR)) 
-- 🔗 [Fiverr C++/C# Gig – Logic-Based, STL-Free Programming]([Fiverr Gig Link]https://www.fiverr.com/hassannawaz14/write-clean-c-cpp-and-c-sharp-programs-without-stl-or-built-ins)
+- 🔗 Fiverr C++/C# Gig – Logic-Based, STL-Free Programming: ([Fiverr Gig Link](https://www.fiverr.com/hassannawaz14/write-clean-c-cpp-and-c-sharp-programs-without-stl-or-built-ins))
