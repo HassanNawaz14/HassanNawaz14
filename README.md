@@ -9,9 +9,10 @@
 - 🔢 [Solar App – C++]([https://github.com/your-repo-link](https://github.com/HassanNawaz14/Solar-Project))  
 
 ## 📫 Reach Me
-- LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/hassan-nawaz-322331256/)
+- LinkedIn: ([linkedin link](https://www.linkedin.com/in/hassan-nawaz-322331256/))
+- Fiverr: ([Fiverr link]([https://www.linkedin.com/in/hassan-nawaz-322331256/](https://www.fiverr.com/hassannawaz14?public_mode=true)))
 - Email: hafizhassan142003@gmail.com
-- Portfolio: https://suave-cyclone-fc5.notion.site/Portfolio-220bf39fd726806eae19e284fe357858
+- Portfolio: ([Notion Protfolio](https://suave-cyclone-fc5.notion.site/Portfolio-220bf39fd726806eae19e284fe357858))
 
 ### 📌 Hire Me
 - 💼 Python Freelancing Gig on Fiverr: ([Fiverr Gig Link](http://www.fiverr.com/s/AykGoXR)) 
