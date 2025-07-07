@@ -14,4 +14,5 @@
 - Portfolio: https://suave-cyclone-fc5.notion.site/Portfolio-220bf39fd726806eae19e284fe357858
 
 ### 📌 Hire Me
-💼 Python Freelancing Gig on Fiverr: ([Fiverr Gig Link](http://www.fiverr.com/s/AykGoXR)) 
+- 💼 Python Freelancing Gig on Fiverr: ([Fiverr Gig Link](http://www.fiverr.com/s/AykGoXR)) 
+- 🔗 [Fiverr C++/C# Gig – Logic-Based, STL-Free Programming]([Fiverr Gig Link]https://www.fiverr.com/hassannawaz14/write-clean-c-cpp-and-c-sharp-programs-without-stl-or-built-ins)
