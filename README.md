@@ -12,7 +12,7 @@
 - LinkedIn: ([linkedin link](https://www.linkedin.com/in/hafiz-m-hassan-322331256))
 - Fiverr: ([Fiverr link](https://www.fiverr.com/hassannawaz14?public_mode=true))
 - Email: hafizhassan142003@gmail.com
-- Portfolio: ([Notion Protfolio](https://suave-cyclone-fc5.notion.site/Portfolio-220bf39fd726806eae19e284fe357858))
+- Portfolio: ([Protfolio](https://hassan-nawaz-portfolio00.vercel.app/))
 
 ### 📌 Hire Me
 - 💼 Python Freelancing Gig on Fiverr: ([Fiverr Gig Link](http://www.fiverr.com/s/AykGoXR)) 
