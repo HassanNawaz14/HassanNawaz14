@@ -5,8 +5,8 @@
 🚀 Open to freelance and remote work
 
 ## 🛠️ My Projects
-- 💻 [ReLive Social Media C++ App]([Code]([https://github.com/your-repo-link](https://github.com/HassanNawaz14/ReLive-CLI-App))  
-- 🔢 [Solar App – C++]([Code]([https://github.com/your-repo-link](https://github.com/HassanNawaz14/Solar-Project))  
+- 💻 [ReLive Social Media C++ App]: ([Code]([https://github.com/your-repo-link](https://github.com/HassanNawaz14/ReLive-CLI-App ))  
+- 🔢 [Solar App – C++]: ([Code]([https://github.com/your-repo-link](https://github.com/HassanNawaz14/Solar-Project ))  
 
 ## 📫 Reach Me
 - LinkedIn: ([linkedin link](https://www.linkedin.com/in/hafiz-m-hassan-322331256))
