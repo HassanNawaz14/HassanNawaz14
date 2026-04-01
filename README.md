@@ -62,27 +62,6 @@ I thrive at the intersection of **data**, **AI**, and **beautiful software**. Wh
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
-### 📊 Skill Proficiency
-
-| Skill | Proficiency |
-|---|---|
-| C++ | `█████████░` 95% |
-| HTML/CSS | `█████████░` 95% |
-| MS Office | `█████████░` 95% |
-| Python | `█████████░` 90% |
-| Pandas & NumPy | `█████████░` 90% |
-| Git & GitHub | `█████████░` 90% |
-| React | `████████░░` 85% |
-| Machine Learning | `████████░░` 85% |
-| Game Development | `████████░░` 85% |
-| JavaScript | `████████░░` 80% |
-| Node.js | `████████░░` 80% |
-| MERN Stack | `████████░░` 80% |
-| Data Visualization | `████████░░` 80% |
-| C# | `███████░░░` 75% |
-| TensorFlow | `███████░░░` 75% |
-| Unity | `███████░░░` 70% |
-
 ---
 
 ## 🚀 Featured Projects
@@ -135,6 +114,7 @@ I thrive at the intersection of **data**, **AI**, and **beautiful software**. Wh
 - 🎯 **Founder-First** — One-time pricing, personalized designs, and ongoing support on demand
 - 🌐 Sites are hosted free of cost and live 24/7 — keeping your online identity alive all the time
 
+
 | Milestone | Status |
 |---|---|
 | Platform Stability | 90% ✅ |
@@ -178,10 +158,22 @@ I thrive at the intersection of **data**, **AI**, and **beautiful software**. Wh
 ## 📊 GitHub Stats
 
 <div align="center">
+   
+[![GitHub followers](https://img.shields.io/github/followers/HassanNawaz14?label=Followers&style=for-the-badge&logo=github&color=a78bfa&labelColor=0d1117)](https://github.com/HassanNawaz14?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/HassanNawaz14?label=Total%20Stars&style=for-the-badge&logo=github&color=a78bfa&labelColor=0d1117)](https://github.com/HassanNawaz14)
+ 
 
-![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HassanNawaz14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanNawaz14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)
+ 
+**🗂️ Primary Languages & Expertise:**
+ 
+| Language / Tech | Proficiency |
+|---|---|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) Python | `█████████░` 90% |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) C++ | `█████████░` 95% |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript | `████████░░` 80% |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) React | `████████░░` 85% |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) TensorFlow | `███████░░░` 75% |
+| ![Assembly](https://img.shields.io/badge/Assembly_x86-6D4C41?style=flat-square) Assembly x86 | `███████░░░` 70% |
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=HassanNawaz14&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
 
