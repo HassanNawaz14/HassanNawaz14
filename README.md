@@ -1,5 +1,10 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=280&section=header&text=Hahiz%20M.%20Hassan&fontSize=72&fontAlignY=45&animation=fadeIn&fontColor=ffffff&desc=⚡%20AI%20Engineer%20%20·%20%20Data%20Scientist%20%20·%20%20Full%20Stack%20Developer&descAlignY=68&descSize=20&descColor=00d4ff)
+
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Hassan+Nawaz+%F0%9F%91%8B;Web+Developer+%26+Data+Scientist;AI+%7C+ML+%7C+Full-Stack+Builder" alt="Typing SVG" />
 </div>
 
