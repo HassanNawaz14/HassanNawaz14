@@ -105,6 +105,102 @@ I thrive at the intersection of **data**, **AI**, and **beautiful software**. Wh
 
 ---
 
+## 🔬 Currently Researching
+
+> *NLP meets Systems — converting natural language directly into executable shell commands.*
+
+<div align="center">
+  
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   NLP2Shell  ·  Natural Language → Shell Command Execution          │
+│                                                                     │
+│   "move all PDFs from Downloads to Documents"                       │
+│    ──────────────────────────────────────────                       │
+│    mv ~/Downloads/*.pdf ~/Documents/              [y/n]: y          │
+│                                                                     │
+│   "delete everything"                                               │
+│    ──────────────────                                               │
+│   ⚠ BLOCKED — matches unsafe pattern: rm -rf                       │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+### 🧠 The Research Idea
+
+Most humans interact with computers through GUIs — a layer of abstraction that trades power for familiarity. The terminal is more powerful, but requires memorizing syntax most people never will. **NLP2Shell explores a third path**: a fine-tuned language model that sits between human intent and shell execution, letting you describe what you want and getting the right command back — instantly, locally, safely.
+
+The deeper question being explored: *how small can a fine-tuned model be while still being useful for a narrow, structured task like bash command generation?*
+
+### ⚙️ Architecture
+```
+Voice / Text Input
+│
+▼
+Whisper STT          ← on-device, no cloud, tiny model
+│
+▼
+Fine-tuned Qwen2.5     ← LoRA adapter, 26k NL→Bash pairs, 4-bit NF4
+(0.5B params)
+│
+▼
+Safety Layer         ← hard blocklist · path validation · allowlist
+│
+▼
+Confirm [y/n]         ← mandatory, logged to ~/.nlp2shell_history.log
+│
+▼
+subprocess.run()
+```
+
+
+### 📦 Stack & Training Setup
+
+<div align="center">
+
+| Layer | Tools |
+|:---:|:---|
+| **LLM** | Qwen2.5-0.5B-Instruct · LoRA (r=16) · PEFT · 4-bit NF4 quantization |
+| **Training** | TRL SFTTrainer · Kaggle T4 GPU (free) · BitsAndBytes · bf16 |
+| **Dataset** | NL2Bash — 26,000 natural language → bash command pairs |
+| **STT** | OpenAI Whisper (tiny) — CPU inference, ~1-3s latency |
+| **Interface** | Rich terminal UI · --safe dry-run flag · Ctrl+M mode toggle |
+| **Safety** | Hardcoded blocklist · path validation · subprocess timeout |
+
+</div>
+
+### 📍 Research Progress
+
+<div align="center">
+
+| Phase | Description | Status |
+|:---|:---|:---:|
+| Data Preparation | NL2Bash cleaning, Alpaca format, train/val split | ✅ Done |
+| Model Fine-tuning | Qwen2.5-0.5B + LoRA on Kaggle T4 | ✅ Done |
+| Inference Pipeline | STT → predict → safety → execute | ✅ Done |
+| CLI Interface | Rich UI, flags, confirmation loop | 🔄 Active |
+| Evaluation + Many More | Exact match, BLEU, execution success rate | ⏳ Next |
+
+</div>
+
+### 🔭 Where This Could Go
+
+The current version handles everyday commands well. The open research questions that make this interesting at scale:
+
+- **Personalization** — fine-tuning on a user's own shell history to predict *their* commands, not generic ones
+- **Model scaling** — how much does quality improve going from 0.5B → 3.8B for this narrow task? Is the tradeoff worth the inference cost?
+- **Multi-command reasoning** — handling chained pipelines (`find | grep | sort | uniq`) requires either a larger model or a decomposition strategy
+- **Cross-shell support** — extending beyond bash to PowerShell, zsh, fish
+
+[![NLP2Shell Repo](https://img.shields.io/badge/🔬_NLP2Shell-View_Research_Repo-A78BFA?style=for-the-badge&labelColor=0d1117)](https://github.com/HassanNawaz14/nlp2shell)
+[![Active](https://img.shields.io/badge/Status-Active_Development-22c55e?style=for-the-badge&labelColor=0d1117)]()
+[![Phase](https://img.shields.io/badge/Phase-4_of_5-00d4ff?style=for-the-badge&labelColor=0d1117)]()
+
+---
+
 ## 🚀 Featured Projects
 
 > *Handpicked work that represents my best — depth, impact, and craft.*
