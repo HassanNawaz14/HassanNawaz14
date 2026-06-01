@@ -262,6 +262,8 @@ A full-stack web app bridging CA and DS teams — featuring KPI tracking, audit 
 |---|---|---|
 | 🧠 | [Sentiment Predictor](https://github.com/HassanNawaz14/Sentiment-Predictor) | TF-IDF + ML end-to-end sentiment pipeline |
 | 🎬 | [RecommendationX](https://github.com/HassanNawaz14/RecommendationX) | Collaborative filtering movie recommender |
+| 🏴‍☠️ | [CPU Storm](https://github.com/HassanNawaz14/CPU-Storm) | A simulation of realtime DoS attack |
+| 🚪 | [The Murder of History](https://github.com/HassanNawaz14/The-Murder-of-History-Presentation) | A Book Review Presentation in a unique style |
 | 🚗 | [GearPro](https://github.com/HassanNawaz14/GearPro) | Car spec DB — search by Make, Model, Year |
 | 🎲 | [LudoWeb](https://github.com/HassanNawaz14/LudoWeb) | 4-player browser Ludo with polished UX |
 | 👾 | [Brick Breaker](https://github.com/HassanNawaz14/Brick-Breaker) | Classic game in raw 8086 Assembly |
